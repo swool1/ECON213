@@ -1,0 +1,7 @@
+{Summary Statistics}
+Variable N Mean StdErr Median	
+Male 2303 4631.6109 10119.862 2300
+Female 337 4570.3264 7612.4786 2500
+LowIncome 0 . . .
+MiddleIncome 1009 3694.0535 6204.8899 2000
+HighIncome 1631 5198.9577 11484.942 2600
